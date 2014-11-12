@@ -12,6 +12,8 @@ Example applications
 
 ##Reptiles
 
-* Rails: https://github.com/pro-vagrant/reptiles-rails-app
 * Django: https://github.com/pro-vagrant/reptiles-django-app
+* Rails: https://github.com/pro-vagrant/reptiles-rails-app
+* Sinatra: https://github.com/pro-vagrant/reptiles-sinatra-app
+
 
