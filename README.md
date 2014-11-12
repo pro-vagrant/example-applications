@@ -9,6 +9,7 @@ Example applications
 
 * AngularJS: https://github.com/pro-vagrant/songs-angularjs-app
 * Django: https://github.com/pro-vagrant/songs-django-app
+* Sinatra: https://github.com/pro-vagrant/songs-sinatra-app
 
 ##Reptiles
 
