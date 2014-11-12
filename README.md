@@ -18,3 +18,9 @@ Example applications
 * Sinatra: https://github.com/pro-vagrant/reptiles-sinatra-app
 
 
+#Boxes
+
+Vagrant boxes for the applications are available at:
+
+* https://github.com/pro-vagrant/vagrant
+* https://vagrantcloud.com/gajdaw
