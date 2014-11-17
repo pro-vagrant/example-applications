@@ -21,5 +21,5 @@ Example applications
 
 Vagrant boxes for the applications are available at:
 
-* https://github.com/pro-vagrant/vagrant
+* https://github.com/pro-vagrant/vagrant-box-factory
 * https://vagrantcloud.com/gajdaw
